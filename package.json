@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "eleventy": "^0.2.0",
-    "netlify": "^2.4.4",
+    "netlify": "^2.4.8",
     "netlify-cli": "^2.12.0"
   }
 }
